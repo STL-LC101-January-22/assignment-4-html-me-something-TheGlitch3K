@@ -1,1 +1,50 @@
-/* Write your CSS here! */
+body {
+  margin: 8px;
+  display: block;
+}
+
+header {
+  text-align: center;
+  text
+}
+
+img {
+  border-radius: 50%;
+  max-width: 40
+  %;
+  margin: 50px;
+}
+
+h1 {
+  font-size: 100px;
+}
+p {
+  font-size: 30px;
+  margin: 0;
+  text-align: left;
+  margin: 50px;
+  padding: 50px;
+}
+
+#mainHeading {
+  color: red;
+}
+
+#testP {
+  color: green;
+
+}
+.headings {
+  font-size: 50px;
+  background-color: #f5f5f5;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 40px;
+}
+
+.eagle {
+  max-width: 100%;
+  width: 100px;
+  height: auto;
+}
+
