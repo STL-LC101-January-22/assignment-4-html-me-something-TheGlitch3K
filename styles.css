@@ -30,7 +30,7 @@ p {
   color: red;
 }
 
-#testP {
+#testP, .funParagraph {
   color: green;
 
 }
@@ -48,3 +48,8 @@ p {
   height: auto;
 }
 
+.topImage {
+  max-width: 100%;
+  width: 200px;
+  height: 200px;
+}
